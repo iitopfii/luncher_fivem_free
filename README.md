@@ -4,3 +4,19 @@ Fipperrz luncher_fivem_free By Elixir Team | Discord: https://discord.gg/mjJgFTZ
 
 
 Dowload Zip file 
+
+
+เข้าโฟร์เดอร์แล้วทำการพิมพ์
+```
+npm install
+```
+
+แล้วทำการรันด้วยคำสั่ง
+```
+npm start
+```
+
+ส่วนวิธีการ build ก็ตามนี้
+```
+https://www.electron.build/
+```
