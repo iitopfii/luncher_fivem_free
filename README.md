@@ -6,7 +6,7 @@ Fipperrz luncher_fivem_free By Elixir Team | Discord: https://discord.gg/mjJgFTZ
 Dowload Zip file 
 
 
-เข้าโฟร์เดอร์แล้วทำการพิมพ์
+เข้าโฟร์เดอร์แล้วทำการ เปิด CMD พิมพ์คำสั่ง
 ```
 npm install
 ```
